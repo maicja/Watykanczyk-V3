@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\projects\\Watykanczyk-V3\\main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6735513-1793-4D54-85AD-C1151C8A3A0D}|prewatykan.csproj|c:\\projects\\watykanczyk-v3\\main\\prewatykan.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D6735513-1793-4D54-85AD-C1151C8A3A0D}|prewatykan.csproj|solutionrelative:prewatykan.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6735513-1793-4D54-85AD-C1151C8A3A0D}|prewatykan.csproj|C:\\projects\\Watykanczyk-V3\\main\\guide\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6735513-1793-4D54-85AD-C1151C8A3A0D}|prewatykan.csproj|solutionrelative:guide\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6735513-1793-4D54-85AD-C1151C8A3A0D}|prewatykan.csproj|C:\\projects\\Watykanczyk-V3\\main\\confusedbyattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6735513-1793-4D54-85AD-C1151C8A3A0D}|prewatykan.csproj|solutionrelative:confusedbyattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6735513-1793-4D54-85AD-C1151C8A3A0D}|prewatykan.csproj|c:\\projects\\watykanczyk-v3\\main\\guide.properties.resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{D6735513-1793-4D54-85AD-C1151C8A3A0D}|prewatykan.csproj|solutionrelative:guide.properties.resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Guide.Properties.Resources.resx",
+              "DocumentMoniker": "C:\\projects\\Watykanczyk-V3\\main\\Guide.Properties.Resources.resx",
+              "RelativeDocumentMoniker": "Guide.Properties.Resources.resx",
+              "ToolTip": "C:\\projects\\Watykanczyk-V3\\main\\Guide.Properties.Resources.resx",
+              "RelativeToolTip": "Guide.Properties.Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-03T19:36:39.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "prewatykan",
+              "DocumentMoniker": "C:\\projects\\Watykanczyk-V3\\main\\prewatykan.csproj",
+              "RelativeDocumentMoniker": "prewatykan.csproj",
+              "ToolTip": "C:\\projects\\Watykanczyk-V3\\main\\prewatykan.csproj",
+              "RelativeToolTip": "prewatykan.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-03T11:11:27.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projects\\Watykanczyk-V3\\main\\Guide\\Program.cs",
+              "RelativeDocumentMoniker": "Guide\\Program.cs",
+              "ToolTip": "C:\\projects\\Watykanczyk-V3\\main\\Guide\\Program.cs",
+              "RelativeToolTip": "Guide\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T11:00:36.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConfusedByAttribute.cs",
+              "DocumentMoniker": "C:\\projects\\Watykanczyk-V3\\main\\ConfusedByAttribute.cs",
+              "RelativeDocumentMoniker": "ConfusedByAttribute.cs",
+              "ToolTip": "C:\\projects\\Watykanczyk-V3\\main\\ConfusedByAttribute.cs",
+              "RelativeToolTip": "ConfusedByAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T11:00:33.254Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+C:\projects\Watykanczyk-V3\watykanczyk\obj\Debug\net45\prewatykan.csproj.AssemblyReference.cache
+C:\projects\Watykanczyk-V3\watykanczyk\obj\Debug\net45\dllsupport.Fullscreen.resources
+C:\projects\Watykanczyk-V3\watykanczyk\obj\Debug\net45\prewatykan.csproj.GenerateResource.cache

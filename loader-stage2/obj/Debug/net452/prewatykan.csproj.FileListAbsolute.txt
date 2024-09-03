@@ -1,0 +1,20 @@
+C:\Users\majakot\Desktop\watykanczykril\bin\Debug\net452\___.netmodule.dll
+C:\Users\majakot\Desktop\watykanczykril\bin\Debug\net452\___.netmodule.pdb
+C:\Users\majakot\Desktop\watykanczykril\obj\Debug\net452\prewatykan.csproj.AssemblyReference.cache
+C:\Users\majakot\Desktop\watykanczykril\obj\Debug\net452\Guide.Properties.Resources.resources
+C:\Users\majakot\Desktop\watykanczykril\obj\Debug\net452\prewatykan.csproj.GenerateResource.cache
+C:\Users\majakot\Desktop\watykanczykril\obj\Debug\net452\prewatykan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\majakot\Desktop\watykanczykril\obj\Debug\net452\prewatykan.csproj.CoreCompileInputs.cache
+C:\Users\majakot\Desktop\watykanczykril\obj\Debug\net452\___.netmodule.dll
+C:\Users\majakot\Desktop\watykanczykril\obj\Debug\net452\___.netmodule.pdb
+C:\projects\Watykanczyk-V3\dll loader\bin\Debug\net452\___.netmodule.exe.config
+C:\projects\Watykanczyk-V3\dll loader\bin\Debug\net452\___.netmodule.exe
+C:\projects\Watykanczyk-V3\dll loader\bin\Debug\net452\___.netmodule.pdb
+C:\projects\Watykanczyk-V3\dll loader\obj\Debug\net452\prewatykan.csproj.AssemblyReference.cache
+C:\projects\Watykanczyk-V3\dll loader\obj\Debug\net452\Guide.Properties.Resources.resources
+C:\projects\Watykanczyk-V3\dll loader\obj\Debug\net452\prewatykan.csproj.GenerateResource.cache
+C:\projects\Watykanczyk-V3\dll loader\obj\Debug\net452\prewatykan.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\Watykanczyk-V3\dll loader\obj\Debug\net452\prewatykan.csproj.CoreCompileInputs.cache
+C:\projects\Watykanczyk-V3\dll loader\obj\Debug\net452\prewatykan.sourcelink.json
+C:\projects\Watykanczyk-V3\dll loader\obj\Debug\net452\___.netmodule.exe
+C:\projects\Watykanczyk-V3\dll loader\obj\Debug\net452\___.netmodule.pdb

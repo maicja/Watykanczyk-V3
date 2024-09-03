@@ -1,0 +1,49 @@
+C:\Users\majakot\Desktop\watykanczyk\obj\Release\net20\Launcher.csproj.AssemblyReference.cache
+C:\Users\majakot\Desktop\watykanczyk\obj\Release\net20\Launcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\majakot\Desktop\watykanczyk\obj\Release\net20\Launcher.csproj.CoreCompileInputs.cache
+C:\Users\majakot\Desktop\watykanczyk\bin\Release\net20\Guide.exe.config
+C:\Users\majakot\Desktop\watykanczyk\bin\Release\net20\Guide.exe
+C:\Users\majakot\Desktop\watykanczyk\bin\Release\net20\Guide.pdb
+C:\Users\majakot\Desktop\watykanczyk\bin\Release\net20\mscorlib.dll
+C:\Users\majakot\Desktop\watykanczyk\bin\Release\net20\pl\mscorlib.resources.dll
+C:\Users\majakot\Desktop\watykanczyk\bin\Release\net20\sortkey.nlp
+C:\Users\majakot\Desktop\watykanczyk\bin\Release\net20\sorttbls.nlp
+C:\Users\majakot\Desktop\watykanczyk\bin\Release\net20\big5.nlp
+C:\Users\majakot\Desktop\watykanczyk\bin\Release\net20\bopomofo.nlp
+C:\Users\majakot\Desktop\watykanczyk\bin\Release\net20\ksc.nlp
+C:\Users\majakot\Desktop\watykanczyk\bin\Release\net20\prc.nlp
+C:\Users\majakot\Desktop\watykanczyk\bin\Release\net20\prcp.nlp
+C:\Users\majakot\Desktop\watykanczyk\bin\Release\net20\xjis.nlp
+C:\Users\majakot\Desktop\watykanczyk\bin\Release\net20\normidna.nlp
+C:\Users\majakot\Desktop\watykanczyk\bin\Release\net20\normnfc.nlp
+C:\Users\majakot\Desktop\watykanczyk\bin\Release\net20\normnfd.nlp
+C:\Users\majakot\Desktop\watykanczyk\bin\Release\net20\normnfkc.nlp
+C:\Users\majakot\Desktop\watykanczyk\bin\Release\net20\normnfkd.nlp
+C:\Users\majakot\Desktop\watykanczyk\obj\Release\net20\Launcher.csproj.Up2Date
+C:\Users\majakot\Desktop\watykanczyk\obj\Release\net20\Guide.exe
+C:\Users\majakot\Desktop\watykanczyk\obj\Release\net20\Guide.pdb
+C:\projects\Watykanczyk-V3\main dll\bin\Release\net20\Guide.exe.config
+C:\projects\Watykanczyk-V3\main dll\bin\Release\net20\Guide.exe
+C:\projects\Watykanczyk-V3\main dll\bin\Release\net20\Guide.pdb
+C:\projects\Watykanczyk-V3\main dll\bin\Release\net20\mscorlib.dll
+C:\projects\Watykanczyk-V3\main dll\bin\Release\net20\pl\mscorlib.resources.dll
+C:\projects\Watykanczyk-V3\main dll\bin\Release\net20\sortkey.nlp
+C:\projects\Watykanczyk-V3\main dll\bin\Release\net20\sorttbls.nlp
+C:\projects\Watykanczyk-V3\main dll\bin\Release\net20\big5.nlp
+C:\projects\Watykanczyk-V3\main dll\bin\Release\net20\bopomofo.nlp
+C:\projects\Watykanczyk-V3\main dll\bin\Release\net20\ksc.nlp
+C:\projects\Watykanczyk-V3\main dll\bin\Release\net20\prc.nlp
+C:\projects\Watykanczyk-V3\main dll\bin\Release\net20\prcp.nlp
+C:\projects\Watykanczyk-V3\main dll\bin\Release\net20\xjis.nlp
+C:\projects\Watykanczyk-V3\main dll\bin\Release\net20\normidna.nlp
+C:\projects\Watykanczyk-V3\main dll\bin\Release\net20\normnfc.nlp
+C:\projects\Watykanczyk-V3\main dll\bin\Release\net20\normnfd.nlp
+C:\projects\Watykanczyk-V3\main dll\bin\Release\net20\normnfkc.nlp
+C:\projects\Watykanczyk-V3\main dll\bin\Release\net20\normnfkd.nlp
+C:\projects\Watykanczyk-V3\main dll\obj\Release\net20\Launcher.csproj.AssemblyReference.cache
+C:\projects\Watykanczyk-V3\main dll\obj\Release\net20\Launcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\Watykanczyk-V3\main dll\obj\Release\net20\Launcher.csproj.CoreCompileInputs.cache
+C:\projects\Watykanczyk-V3\main dll\obj\Release\net20\Launcher.sourcelink.json
+C:\projects\Watykanczyk-V3\main dll\obj\Release\net20\Launcher.csproj.Up2Date
+C:\projects\Watykanczyk-V3\main dll\obj\Release\net20\Guide.exe
+C:\projects\Watykanczyk-V3\main dll\obj\Release\net20\Guide.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nt91eOCJxj9rCUvwc1JWBHvsVjNgdDjW2LYWdp32uBsn7yumswwio2daDVE86dhr1FIqElayEHHQ5D4IPVXN3w==",
+  "success": true,
+  "projectFilePath": "C:\\projects\\Watykanczyk-V3\\main\\prewatykan.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\majakot\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\majakot\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net452\\1.0.3\\microsoft.netframework.referenceassemblies.net452.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,41 @@
+<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+  <PropertyGroup>
+    <AssemblyName>___.netmodule</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <UseWindowsForms>True</UseWindowsForms>
+    <TargetFramework>net45</TargetFramework>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>11.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>app.ico</ApplicationIcon>
+    <RootNamespace />
+    <OutputType>Library</OutputType>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="dllsupport.Resources.masa.jpg" />
+    <None Remove="dllsupport.Resources.papagif.gif" />
+    <None Remove="dllsupport.Resources.papież.gif" />
+    <None Remove="dllsupport.Resources.papiezkreci.gif" />
+    <None Remove="dllsupport.Resources.papiezlata.gif" />
+    <None Remove="dllsupport.Resources.papiezrower.gif" />
+    <None Remove="dllsupport.Resources.papiezinba.gif" />
+    <None Remove="dllsupport.Resources.gowniak.gif" />
+    <None Remove="dllsupport.Resources.Jan_DJ_2_-_GabBarka.wav" />
+    <None Remove="dllsupport.Resources.papieszIkonka.ico" />
+    <EmbeddedResource Include="dllsupport.Resources.masa.jpg" LogicalName="dllsupport.Resources.masa.jpg" />
+    <EmbeddedResource Include="dllsupport.Resources.papagif.gif" LogicalName="dllsupport.Resources.papagif.gif" />
+    <EmbeddedResource Include="dllsupport.Resources.papież.gif" LogicalName="dllsupport.Resources.papież.gif" />
+    <EmbeddedResource Include="dllsupport.Resources.papiezkreci.gif" LogicalName="dllsupport.Resources.papiezkreci.gif" />
+    <EmbeddedResource Include="dllsupport.Resources.papiezlata.gif" LogicalName="dllsupport.Resources.papiezlata.gif" />
+    <EmbeddedResource Include="dllsupport.Resources.papiezrower.gif" LogicalName="dllsupport.Resources.papiezrower.gif" />
+    <EmbeddedResource Include="dllsupport.Resources.papiezinba.gif" LogicalName="dllsupport.Resources.papiezinba.gif" />
+    <EmbeddedResource Include="dllsupport.Resources.gowniak.gif" LogicalName="dllsupport.Resources.gowniak.gif" />
+    <EmbeddedResource Include="dllsupport.Resources.Jan_DJ_2_-_GabBarka.wav" LogicalName="dllsupport.Resources.Jan_DJ_2_-_GabBarka.wav" />
+    <EmbeddedResource Include="dllsupport.Resources.papieszIkonka.ico" LogicalName="dllsupport.Resources.papieszIkonka.ico" />
+  </ItemGroup>
+  <ItemGroup />
+</Project>
